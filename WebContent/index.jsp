@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<b><% out.println("Hello Welt!-TestDevBranch)"); %></b>
+	<b><% out.println("Hello Welt!-TestMaster)"); %></b>
+	<b><% out.println("Hello Welt!-DevBranch)"); %></b>
 </body>
 </html>
