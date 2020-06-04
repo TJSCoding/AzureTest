@@ -10,5 +10,6 @@
 <body bgcolor=yellow>
 	<b><% out.println("Hello 1234)"); %></b>
 	<b><% out.println("Hello Welt!-DevBranch)"); %></b>
+	<b><font style="font-size:6">Test</font></b>
 </body>
 </html>
