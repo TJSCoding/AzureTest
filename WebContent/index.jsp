@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor=yellow>
 	<b><% out.println("Hello 1234)"); %></b>
 	<b><% out.println("Hello Welt!-DevBranch)"); %></b>
 </body>
